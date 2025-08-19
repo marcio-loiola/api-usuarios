@@ -1,0 +1,10 @@
+playwright==1.46.0
+python-dotenv==1.0.1
+rapidfuzz==3.9.6
+beautifulsoup4==4.12.3
+soupsieve==2.5
+requests==2.32.3
+pydantic==2.8.2
+rich==13.7.1
+schedule==1.2.2
+sqlite-utils==3.36
